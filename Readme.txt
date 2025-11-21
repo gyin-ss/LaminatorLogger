@@ -1,0 +1,4 @@
+- to use most recent .net8.0 to create a wrapper for dll
+- DLL, use 64bit version
+- the real functionality needed is USB interfacing
+- minimum installation of beckoff module is TC1000 (Twincat 3 ADS)
